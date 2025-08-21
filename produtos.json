@@ -1,0 +1,21 @@
+[
+    {
+      "nome": "Fone de Ouvido Bluetooth",
+      "preco": 199.99,
+      "imagem": "img/fone.jpg",
+      "descricao": "Fone bluttooth com iluminação RGB"
+    },
+    {
+      "nome": "Teclado Mecânico RGB",
+      "preco": 349.90,
+      "imagem": "img/kumara.jpg",
+      "descricao": "Teclado mecânico com iluminção RGB."
+    },
+    {
+      "nome": "Mouse Gamer",
+      "preco": 159.50,
+      "imagem": "img/mouse.jpg",
+      "descricao": "Mouse gamer com iluminçao RGB e resposta rapida."
+    }
+  ]
+  
